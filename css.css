@@ -1,0 +1,103 @@
+.nav-item{
+    margin-left: 20px;
+    
+}
+
+
+.navbar-brand{
+    color: aliceblue;
+    font-weight: 700;
+    
+}
+
+.nav-item a{
+    color: white;
+}
+
+.dropdown-menu a{
+    color: darkblue;    
+}
+
+.navbar{
+    background-color: black;
+}
+
+
+
+
+
+
+
+.external_div{
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+}
+.badge{
+    height: 70px;
+    width: 70px;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    border-radius: 20px;
+    font-size: 40px;
+    color: white;
+}
+.col{
+    
+}
+.row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.container_of_span{
+    margin: auto;
+    height: 70px;
+    width: 70px;
+}
+
+
+.btn{
+    width: 170px;
+    height: 70px;
+    font-size: 25px;
+    border: solid;
+    border-color: black;
+}
+.button_container{
+    margin-bottom: 40px;
+}
+.button_outline{
+    width: 170px;
+    height: 70px;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+.foot{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
+.footer-logo{
+    margin: auto;
+}
+.footer-logo a{
+    color: white;
+}
+.col a{
+    color: aliceblue;
+}
